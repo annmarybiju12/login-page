@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.9.4",
     "bcryptjs": "^2.4.3",
     "dompurify": "^3.2.4",
     "jsonwebtoken": "^9.0.2",
